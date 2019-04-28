@@ -1,0 +1,38 @@
+body h3{
+    font-family: arial, serif;
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+
+button{
+    border-radius: 0 !important;
+}
+.btn{
+    border-radius: 0 !important;
+}
+.card{
+    border-radius: 0 !important;
+}
+input{
+    border-radius: 0 !important;
+}
+.form-group input{
+    border-radius: 0px;
+}
+.form-group button{
+    border-radius: 0px;
+}
+table tbody tr{
+    background: ghostwhite;
+}
+
+.btn-danger{
+    background: darkred;
+    border: darkred;
+}
+
+.list-group-item{
+    background: transparent;
+}
